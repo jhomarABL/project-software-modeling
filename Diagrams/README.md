@@ -9,6 +9,7 @@ This folder contains the following diagrams and CRC cards that represent the sys
 
 2. **Activity Diagram**  
    Breaks down the workflow or activities of a process, describing the sequential steps and the decisions involved.
+   You can view the activity diagram in the file: [activity diagram.png](./activitty%20diagram.png)
 
 3. **Class Diagram**  
    Displays the static structure of the system, detailing the classes, attributes, methods, and the relationships between them (such as inheritance, association, and aggregation).  
